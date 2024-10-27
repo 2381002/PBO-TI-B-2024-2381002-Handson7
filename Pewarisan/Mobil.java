@@ -1,4 +1,4 @@
-package pewarisan;
+package Pewarisan;
 
 import java.sql.SQLOutput;
 

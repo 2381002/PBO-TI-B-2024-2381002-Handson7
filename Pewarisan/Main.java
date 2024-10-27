@@ -1,4 +1,4 @@
-package pewarisan;
+package Pewarisan;
 
 public class Main {
     public static void main(String[] args) {

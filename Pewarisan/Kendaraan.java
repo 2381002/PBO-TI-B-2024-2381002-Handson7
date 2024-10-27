@@ -1,4 +1,4 @@
-package pewarisan;
+package Pewarisan;
 
 public class Kendaraan {
     private String merek;
